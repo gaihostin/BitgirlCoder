@@ -1,6 +1,6 @@
-# BitgirlCoder.github.io
-
+# BitgirlCoder
 
 A Bitgirl's ITech World ——Just put down what I think
 
-专注c++、python和shell编程 兴趣：算法，机器学习
+技能：c++，java，python，shell，web开发
+兴趣：算法，机器学习
